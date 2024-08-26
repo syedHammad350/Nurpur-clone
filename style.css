@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ li:hover{
+    border: 1px solid green;
+    color: green;
+    border-radius: 30px;
+    cursor:alias;
+ }
+ 
+.myicons{
+    margin-right: 200px;
+    
+}
+ video{
+    height: 800px;
+    width: 100%;
+    
+} 
+
+.img_para{
+
+display: flex;
+gap: 90px;
+
+} 
+.para1{
+margin-top: 30px;
+margin-left: 200px;
+
+}
+.mycards{
+    margin: 0px auto;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 200px;
+
+}
+.card1{
+    height: 600px;
+    width: 300px;
+    border: none;
+    
+}
+.card1 h5{
+    text-align: center;
+}
+.card1 p{
+    text-align: center;
+}
+.card2{
+    height: 600px;
+    width: 300px;
+    border: none;
+    font-size: 15px;
+}
+.card2 h5{
+    text-align: center;
+}
+.card2 p{
+    text-align: center;
+}
+
+.card3{
+    height: 600px;
+    width: 300px;
+    border: none;
+}
+.card3 h5{
+    text-align: center;
+}
+.card3 p{
+    text-align: center;
+}
+.card1:hover{
+    border: 2px solid white;
+    background-color: beige;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.card2:hover{
+    border: 2px solid white;
+    background-color: beige;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.card3:hover{
+    border: 2px solid white;
+    background-color: beige;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.secondcards{
+    margin: 0px auto;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    /* margin-top: 300px; */
+
+}
+.card4{
+    height: 600px;
+    width: 300px;
+    border: none;
+   
+}
+.card4 h5{
+    text-align: center;
+}
+.card4 p{
+    text-align: center;
+}
+.card4:hover{
+    border: 2px solid white;
+    background-color: beige;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.card5{
+    height: 600px;
+    width: 300px;
+    border: none;
+    font-size: 14px;
+}
+.card5 h5{
+    text-align: center;
+}
+.card5 p{
+    text-align: center;
+}
+.card5:hover{
+    border: 2px solid white;
+    background-color: beige;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.myfooter{
+    width: 100%;
+    height: 550px;
+
+    background-color: white;
+    display: flex;
+    
+}
+.mymainfooter{
+    margin-left: 50px;
+    margin-top: 200px;
+}
+.foujiimg{
+   margin-bottom: 100px;
+   margin-left: 100px;
+    margin-top: 220px;
+    
+}
+.nurpur_img{
+    margin-left: 220px;
+    margin-top: 230px;
+    /* border: 2px solid red; */
+    
+}
+
+
+
